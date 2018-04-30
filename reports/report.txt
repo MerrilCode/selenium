@@ -1,0 +1,19 @@
+[1;35mStarting selenium server... [0m[1;35mstarted - PID: [0m 2460
+
+[0;36m[Test] Test Suite[0m
+[0;35m=====================[0m
+2018-4-27 12:16:50
+
+Running:  [0;32mDemo test musicsales[0m
+ [0;32m✔[0m Element <body> was visible after 69 milliseconds.
+ [0;32m✔[0m Testing if element <#last> contains text: "Contact".
+
+[0;32mOK.[0m [0;32m2[0m assertions passed. (7.681s)
+
+Running:  [0;32mstep two[0m
+ [0;32m✔[0m Expected element <#last> text to contain: "Contact" after 2000ms - condition was met in 25ms
+
+[0;32mOK.[0m [0;32m1[0m assertions passed. (155ms)
+2018-4-27 12:16:58
+
+[0;32mOK. 3  total assertions passed.[0m (7.886s)

@@ -1,0 +1,16 @@
+
+[0;36m[Tests / Test] Test Suite[0m
+[0;35m=============================[0m
+
+Running:  [0;32mDemo test musicsales[0m
+ [0;32m✔[0m Element <body> was visible after 116 milliseconds.
+ [0;32m✔[0m Testing if element <#last> contains text: "Contact".
+
+[0;32mOK.[0m [0;32m2[0m assertions passed. (10.682s)
+
+Running:  [0;32mstep two[0m
+ [0;32m✔[0m Expected element <#last> text to contain: "Contact" after 2000ms - condition was met in 78ms
+
+[0;32mOK.[0m [0;32m1[0m assertions passed. (340ms)
+
+[0;32mOK. 3  total assertions passed.[0m (11.119s)
